@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/mfalhim/cb47e38e-4b24-466e-abc5-a88396e9b7ac/8b3ec819-683d-4df7-9f2d-111b5b6983a1/_apis/work/boardbadge/319dabb7-d661-4c07-806f-ef222d20f20b)](https://dev.azure.com/mfalhim/cb47e38e-4b24-466e-abc5-a88396e9b7ac/_boards/board/t/8b3ec819-683d-4df7-9f2d-111b5b6983a1/Microsoft.RequirementCategory)
 [![Travis CI Status](https://travis-ci.org/intel-android/androidhub.svg?branch=master)](https://travis-ci.org/intel-android/androidhub)
 [![Join the chat at https://gitter.im/intel-android/androidhub](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/intel-android/androidhub?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
